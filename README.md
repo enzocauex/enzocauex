@@ -1,4 +1,4 @@
-## Olá, me chamo Enzo Cauê. Apaixonado por programação e tecnologia!
+## Hi, I'm Enzo. And I'm passionate about programming and technology
 <div align="center">
   <a href="https://github.com/enzocauex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzocauex&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
